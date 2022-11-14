@@ -1,0 +1,10 @@
+/Users/syrym/IdeaProjects/1-2-1/src/main/java/oneToOne/model/Status.java
+/Users/syrym/IdeaProjects/1-2-1/src/main/java/oneToOne/repository/OneToOneMeetRepository.java
+/Users/syrym/IdeaProjects/1-2-1/src/main/java/oneToOne/controller/OneToOneController.java
+/Users/syrym/IdeaProjects/1-2-1/src/main/java/oneToOne/model/OneToOneMeetEntity.java
+/Users/syrym/IdeaProjects/1-2-1/src/main/java/oneToOne/OneToOneApplication.java
+/Users/syrym/IdeaProjects/1-2-1/src/main/java/oneToOne/dto/ResponseOneToOne.java
+/Users/syrym/IdeaProjects/1-2-1/src/main/java/oneToOne/mapper/OneToOneMeetToEntityMapper.java
+/Users/syrym/IdeaProjects/1-2-1/src/main/java/oneToOne/services/impl/OneToOneMeetServiceImpl.java
+/Users/syrym/IdeaProjects/1-2-1/src/main/java/oneToOne/services/OneToOneMeetService.java
+/Users/syrym/IdeaProjects/1-2-1/src/main/java/oneToOne/dto/RequestOneToOne.java

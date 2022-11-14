@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://127.0.0.1:5432/${RMTM_121_DB:1-2-1}
+    username: ${RMTM_DB_USER:postgres}
+    password: ${RMTM_DB_PASSWORD:postgres}
+  jpa:
+    hibernate:
+      ddl-auto: create
